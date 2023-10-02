@@ -31,7 +31,7 @@
 
 ### Check out my latest articles
 <a target="_blank" href="https://link.springer.com/article/10.1007/s00245-023-10058-6"><img src="https://link.springer.com/static/6da3296d98b8d73c44ec595d326a9b5dcb926034/sites/link/images/logo_high_res.png" alt="Recent Article 0"> 
-<h1 class="c-article-title" data-test="article-title" data-article-title="" href="https://link.springer.com/article/10.1007/s00245-023-10058-6">Fast Convergence of Inertial Dynamics with Hessian-Driven Damping Under Geometry Assumptions</h1>
+<h1 class="c-article-title" data-test="article-title" data-article-title=""><a href="https://link.springer.com/article/10.1007/s00245-023-10058-6">Fast Convergence of Inertial Dynamics with Hessian-Driven Damping Under Geometry Assumptions</a></h1>
 
     
 ### Packages I created
